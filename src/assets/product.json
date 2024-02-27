@@ -1,0 +1,74 @@
+[
+    {
+        "id":89,
+        "name":"Farmers Pick",
+        "amt": "299",
+        "shop":"Pizza Hut",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/89.jpg",
+        "latest": "No"
+    },
+    {
+        "id":124,
+        "name":"Paper Roast",
+        "amt": "120",
+        "shop":"Saravana Bhavan",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/124.jpg",
+        "latest": "No"
+    },
+    {
+        "id":1,
+        "name":"Chicken Gravey",
+        "amt": "220",
+        "shop":"Muniyandi vilas",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/1.jpg",
+        "latest": "No"
+    },
+    {
+        "id":2,
+        "name":"Mutton Briyani",
+        "amt": "400",
+        "shop":"Muniyandi vilas",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/2.jpg",
+        "latest": "No"
+    },
+    {
+        "id":3,
+        "name":"Chicken Rice",
+        "amt": "299",
+        "shop":"Muniyandi vilas",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/3.jpg",
+        "latest": "No"
+    },
+    {
+        "id":4,
+        "name":"Fried Rice",
+        "amt": "120",
+        "shop":"A2B",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/4.jpg",
+        "latest": "No"
+    },
+    {
+        "id":5,
+        "name":"Egg Rice",
+        "amt": "150",
+        "shop":"A2B",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/5.jpg",
+        "latest": "No"
+    },
+    {
+        "id":7,
+        "name":"Lolli pop chicken",
+        "amt": "399",
+        "shop":"Muniyandi vilas",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/7.jpg",
+        "latest": "No"
+    },
+    {
+        "id":55,
+        "name":"Chocolate Ice cream",
+        "amt": "120",
+        "shop":"Pizza Hut",
+        "ftype": "http:/www.app.tutorjoes.in/img/food/55.jpg",
+        "latest": "No"
+    }
+]
